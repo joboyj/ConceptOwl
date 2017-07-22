@@ -1,0 +1,22 @@
+[debug (6/30/15 5:27:35 PM)] RunSetup: SikuliX Setup Build: 1.0.1 12NOV2013120000
+[debug (6/30/15 5:27:35 PM)] RunSetup: ... starting with no args given
+[debug (6/30/15 5:27:35 PM)] RunSetup: syspath: D:\eclipseworkspace\jars\Sikuli\libs
+[debug (6/30/15 5:27:35 PM)] RunSetup: syspath: D:\app\joboy\product\11.2.0\client_2
+[debug (6/30/15 5:27:35 PM)] RunSetup: syspath: D:\app\joboy\product\11.2.0\client_2\bin
+[debug (6/30/15 5:27:35 PM)] RunSetup: syspath: D:\app\administrator\product\11.2.0\client_1\bin
+[debug (6/30/15 5:27:35 PM)] RunSetup: syspath: C:\Program Files\Common Files\Microsoft Shared\Windows Live
+[debug (6/30/15 5:27:35 PM)] RunSetup: syspath: C:\Windows\system32
+[debug (6/30/15 5:27:35 PM)] RunSetup: syspath: C:\Windows
+[debug (6/30/15 5:27:35 PM)] RunSetup: syspath: C:\Windows\System32\Wbem
+[debug (6/30/15 5:27:35 PM)] RunSetup: syspath: C:\Windows\System32\WindowsPowerShell\v1.0\
+[debug (6/30/15 5:27:35 PM)] RunSetup: syspath: C:\Program Files\Windows Live\Shared
+[debug (6/30/15 5:27:35 PM)] RunSetup: syspath: C:\Program Files\Intel\OpenCL SDK\2.0\bin\x86
+[debug (6/30/15 5:27:35 PM)] RunSetup: syspath: C:\Program Files\TortoiseSVN\bin
+[debug (6/30/15 5:27:35 PM)] RunSetup: syspath: C:\Program Files\Java\jdk1.8.0_25\bin
+[debug (6/30/15 5:27:35 PM)] RunSetup: syspath: C:\Program Files\Java\jre1.8.0_25\bin
+[debug (6/30/15 5:27:35 PM)] RunSetup: syspath: C:\Program Files\Skype\Phone\
+[debug (6/30/15 5:27:35 PM)] RunSetup: syspath: C:\Program Files\HP\LoadRunner\strawberry-perl\perl\bin
+[debug (6/30/15 5:27:35 PM)] RunSetup: syspath: E:\loadrunersample\javademo
+[debug (6/30/15 5:27:35 PM)] RunSetup: syspath: C:\Program Files\Sikuli X\libs
+[debug (6/30/15 5:27:35 PM)] RunSetup: syspath: bin
+[debug (6/30/15 5:27:54 PM)] RunSetup: Update cancelled
